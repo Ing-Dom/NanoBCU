@@ -27,6 +27,8 @@ Der Schaltplan der NanoBCU ist unter der freien [CC-BY-NC-SA](https://creativeco
 
 SMD-bestückte Bausätze können [hier](https://muster.ing-dom.de) gekauft werden.
 
+Die KiCAD-Daten sind und werden nicht veröffentlicht.
+
 ## Aufbau
 
 Eine gerade oder gewinkelte 1x7 Stift- oder Buchsenleiste RM 2.54mm einlöten.

@@ -7,7 +7,7 @@ Mit der BCU können per UART Telegramme auf KNX-TP1 gesendet und empfangen werde
 
 Die Informationen hier gelten für die NanBCU V2, für die älteren V0 und V1 Versionen siehe [NanoBCU-V1](https://github.com/OpenKNX/OpenKNX/wiki/NanoBCU-V1)
 
-![NanoBCU V02.00 Top](https://github.com/OpenKNX/OpenKNX/blob/NanoBCU_V02.00/accessories/NanoBCU/doc/Pictures/NanoBCU_V02.00_soldered_Top.jpg)
+![NanoBCU V02.00 Top](/doc/pics/NanoBCU_V02.10.jpg)
 
 ## Eigenschaften
 
@@ -86,6 +86,8 @@ Details zu den möglichen Bestückvarianten sind im Schaltplan zu finden.
 - [Sammelbestellung KNX User Forum](https://knx-user-forum.de/forum/projektforen/openknx/1748827-sammelbestellung-nanobcu-und-zubeh%C3%B6r)
 
 ## Bilder
+
+![NanoBCU V02.00 Top](/doc/pics/NanoBCU_V02.10.jpg)
 
 ![NanoBCU V02.00 Top](https://github.com/OpenKNX/OpenKNX/blob/NanoBCU_V02.00/accessories/NanoBCU/doc/Pictures/NanoBCU_V02.00_soldered_Top.jpg)
 
